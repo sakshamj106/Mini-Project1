@@ -10,10 +10,10 @@ function App() {
   const passwordGenerator = useCallback(() => {
     let pass = ""
     let str = ""
-    
+
   },[length, numberAllowed, charAllowed, setPassword])
 
-  }
+  
 
 
   return (
